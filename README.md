@@ -2,6 +2,7 @@
 
 # **<p align="center">Aritim-Dark Theme</p>**
 
+[![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 <!--  -->
 
 
