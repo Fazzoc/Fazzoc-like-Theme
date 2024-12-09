@@ -1,6 +1,6 @@
 <!-- # **<p style="text-align: center;">Aritim-Dark Theme</p>** -->
 
-# **<p align="center">Aritim-Dark - Fazzoc-like Plasma Style</p>**
+# **<p align="center">Fazzoc-like Plasma Style</p>**
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 <!--  -->
