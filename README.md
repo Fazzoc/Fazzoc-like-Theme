@@ -1,6 +1,6 @@
 <!-- # **<p style="text-align: center;">Aritim-Dark Theme</p>** -->
 
-# **<p align="center">Aritim-Dark Theme</p>**
+# **<p align="center">Aritim-Dark - Fazzoc-like Plasma Style</p>**
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 <!--  -->
@@ -8,21 +8,13 @@
 
 ## **Installation**
 
-### **1) 🛑 Install Lightly Theme Style**
-* To match the screenshots below, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
-
-* Once Lightly installed, remember to go to:
-`System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
-
-* You can install *Aritim-Dark* before or after *Lightly*, just remember to apply both once installed :D
-
-### **2) 🎯 Install Aritim-Dark Theme**
+### **1) 🎯 Install Aritim-Dark - Fazzoc-like Plasma Style**
 
 * Aritim-Dark can be installed in one click from the `Settings` page provided by each KDE-based Linux distribution.
 
-* Open `System Settings` --> `Appearance` --> `Global Theme` section --> "`Get New Global Themes...`" button. This will automatically install all the theme components (color scheme, plasma style etc...) you can find in this repository.
+* Open `System Settings` --> `Appearance` --> `Plasma Style` section --> "`Install from file...`" button. This will automatically install all the theme components (color scheme, plasma style etc...) you can find in this repository.
 
-### **3) 🎉 Enjoy!**
+### **2) 🎉 Enjoy!**
 * **Now it's up to you!**
 * I tend to leave the theme as generic as possible to please everyone's likings (and believe me it's not easy 😆), so some visual adjustments may be needed just after installation.
 * Move panels here and there, change wallpapers as you like, the imagination is the only limit!
@@ -30,8 +22,6 @@
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/00-Desktop.png)
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/01-Desktop.png)
-
-**You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
 ----
 
