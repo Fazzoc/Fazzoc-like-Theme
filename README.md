@@ -50,4 +50,6 @@ Finally, like *Daft Punk* said:
 
 > We Are Human After All
 
-The original creator of the color palette is [Ike Ku](https://github.com/dempfi), who released his work under the [MIT license](https://github.com/dempfi/ayu/blob/master/LICENSE).
+## **Credits**
+
+Original colour palette (Accentuate) made by: [j3ra](https://www.pling.me/p/2174215).
