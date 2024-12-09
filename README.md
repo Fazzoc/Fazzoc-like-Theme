@@ -42,7 +42,6 @@
 * You can find everything related to Aritim-Dark in this repository, which is organized in subfolders.
 
 * Please, refer to the badges "`development`" you can find in each `README`, below you can find some additional infos.
-* **As a general rule**, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven, so expect high delays when dealing with issues or enhancements.
 
   1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
      > This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
