@@ -2,9 +2,7 @@
 
 # **<p align="center">Aritim-Dark Theme</p>**
 
-[![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
-![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
-<!-- [![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Dark) -->
+<!--  -->
 
 
 ## **Installation**
@@ -51,62 +49,6 @@
      > This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
   3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
      > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present themselves and really worth the effort. Issues and PR will be probably read but not considered.
-
-### **2) 📦 AUR Packages**
-
-* [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde-git/) ([D3SOX](https://github.com/D3SOX))
-* [Aritim-Dark for **GTK**](https://aur.archlinux.org/packages/aritim-dark-gtk-git/) ([D3SOX](https://github.com/D3SOX))
-
-A big **thank you** goes to all the contributors, you are awesome!
-
-### **3) 💣 Extras / Community Themes**
-
-* [Aritim-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)  (me)
-* [Aritim-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes)  ([Tobias Johansson](https://github.com/TobiasDev))
-* [Aritim-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS)  ([Tobias Johansson](https://github.com/TobiasDev))
-* [Aritim-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-aritim-dark)  ([Alvaro Oliveira](https://github.com/kaluk1321))
-* [Aritim-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-aritim-dark)  ([Alvaro Oliveira](https://github.com/kaluk1321))
-
-A big **thank you** goes to all the contributors, you are awesome!
-
-
-### **4) 💙 DONATIONS**
-
-> I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
->
-> I am sure you will appreciate all the work behind this repo and the many hours of my free time that I have dedicated (and will continue to devote) to this project.
-> 
-> If you want, you can consider a small donation to support future developments for this and many new projects that will come in the future.
->
-> Thank you for your time.
-> 
->**Mrcuve0**
-
-Below you'll find infos on how you can do it:
-
-**1. Cryptocurrencies!**
-
-  * Here's my **IOTA** address:
-      ```
-      iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
-      ```
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"/>
-      </p>
-
-  * I also accept **bitcoin**:
-    <!-- ![btc_badge](https://img.shields.io/badge/BTC-bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg-%23F7931A?logo=bitcoin) -->
-      ```
-      bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
-      ```
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png"/>
-      </p>
-
-**2. Or ...**
-   1. Donate via **LiberPay** or **PayPal**
-      * [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
-      * [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
 ### **5) 📎 LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
