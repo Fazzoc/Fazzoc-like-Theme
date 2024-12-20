@@ -8,7 +8,15 @@
 
 ## **Installation**
 
-### **1) 🎯 Install Aritim-Dark - Fazzoc-like Plasma Style**
+### **1) 🛑 Install Fazzoc-Like Lightly Theme Style**
+* To match the screenshots below, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the unofficial Lightly repository](https://github.com/Luwx/Lightly).
+
+* Once Lightly installed, remember to go to:
+`System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
+
+* You can install *Aritim-Dark* before or after *Lightly*, just remember to apply both once installed :D
+
+### **2) 🎯 Install Aritim-Dark - Fazzoc-like Plasma Style**
 
 * Aritim-Dark can be installed in one click from the `Settings` page provided by each KDE-based Linux distribution.
 
