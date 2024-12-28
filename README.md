@@ -8,13 +8,13 @@
 
 ## **Installation**
 
-### **1) 🛑 Install Fazzoc-Like Lightly Theme Style**
-* To match the screenshots below, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
+### **1) 🛑 Install Darkly Theme Style**
+* To match the screenshots below, you must **INSTALL** *Darkly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Darkly repository](https://github.com/Bali10050/Darkly).
 
-* Once Lightly installed, remember to go to:
+* Once Darkly installed, remember to go to:
 `System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
 
-* You can install *Aritim-Dark* before or after *Lightly*, just remember to apply both once installed :D
+* You can install *Aritim-Dark* before or after *Darkly*, just remember to apply both once installed :D
 
 ### **2) 🎯 Install Aritim-Dark - Fazzoc-like Plasma Style**
 
